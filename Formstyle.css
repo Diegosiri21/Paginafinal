@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    background-image: url(perrrovet.jpg);
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    padding-top: 100px;
+}
+.form{
+    border-style: solid;
+    border-color:rgb(173, 216, 230);
+    width: 400px;
+    height: auto;
+    background: rgba(255, 255, 255, 0.5);
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    padding: 30px;
+    margin-left: 730px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.contenedores{
+    width: 100%;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.boton{
+    width: 100%;
+    background:rgb(173, 216, 230);
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 12px;
+    border-radius: 5px;
+}
+.boton:hover{
+    width: 100%;
+    background: rgba(173, 216, 230, 0.5);
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 12px;
+    border-radius: 5px;
+}

@@ -1,0 +1,8 @@
+Direccion: San martin 123, San Nicolas de los Arroyos.
+Horarios:
+Lunes: de 8am a 11 am y de 15pm a 21pm.
+Martes: de 8am a 11 am y de 15pm a 21pm.
+Miercoles: de 8am a 11 am y de 15pm a 21pm.
+Jueves: de 8am a 11 am y de 15pm a 21pm.
+Viernes: de 8am a 11 am y de 15pm a 21pm.
+Sabados: de 8am a 11 am.
